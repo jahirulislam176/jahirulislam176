@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Software Company
+- 🔭 I’m currently working at Software Company
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Web Application Development
 - 📫 How to reach me: Mobile:01722813524 include whatsapp
